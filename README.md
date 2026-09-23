@@ -1,83 +1,40 @@
-<!-- ========================= -->
-<!--        HEADER             -->
-<!-- ========================= -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Jedrick+%F0%9F%91%8B;Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code;Building%2C+Learning%2C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1200&color=61AFEF&center=true&vCenter=true&width=750&height=60&lines=class+Developer%3A;++++name+%3D+%22Jedrick%22;++++status+%3D+%22Coding%22;++++while+True%3A;++++++++build()%3B+debug()%3B+repeat()%3B"
-    alt="Typing SVG"
-  />
+  <img src="https://img.shields.io/badge/Status-Building%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mood-Coding%20%26%20Debugging-181717?style=for-the-badge&logo=terminal&logoColor=white" />
 </p>
 
-<br>
+<br />
 
-<!-- ========================= -->
-<!--         STATUS            -->
-<!-- ========================= -->
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Status-Coding-282C34?style=for-the-badge&logo=visualstudiocode&logoColor=61AFEF"
-  />
-  <img
-    src="https://img.shields.io/badge/Mode-Debugging-282C34?style=for-the-badge&logo=codeforces&logoColor=98C379"
-  />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<br>
+<br />
 
-<!-- ========================= -->
-<!--        TECH STACK         -->
-<!-- ========================= -->
+<h3 align="center">⚡ Current Status</h3>
 
-<h3 align="center">⚡ Tech Stack</h3>
+```javascript
+const developer = {
+    name: "Jedrick",
+    role: "Developer",
+    currentlyLearning: ["Programming", "Web Development", "Cloud"],
+    languages: ["C++", "Java", "JavaScript"],
+    hobbies: ["Football", "Music", "Coding"]
+};
 
-<p align="center">
-
-  <img
-    src="https://img.shields.io/badge/C++-282C34?style=for-the-badge&logo=cplusplus&logoColor=61AFEF"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Java-282C34?style=for-the-badge&logo=openjdk&logoColor=E5C07B"
-  />
-
-  <img
-    src="https://img.shields.io/badge/HTML-282C34?style=for-the-badge&logo=html5&logoColor=E06C75"
-  />
-
-  <img
-    src="https://img.shields.io/badge/CSS-282C34?style=for-the-badge&logo=css&logoColor=61AFEF"
-  />
-
-  <img
-    src="https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=E5C07B"
-  />
-
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--       DEVELOPER CODE      -->
-<!-- ========================= -->
-
-<h3 align="center">💻 Developer.exe</h3>
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Jedrick"
-        self.status = "Coding"
-        self.languages = [
-            "C++",
-            "Java",
-            "JavaScript"
-        ]
-
-    def run(self):
-        while True:
-            self.build()
-            self.debug()
-            self.improve()
+while (true) {
+    learn();
+    build();
+    debug();
+    improve();
+}
