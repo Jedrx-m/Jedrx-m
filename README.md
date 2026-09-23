@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-rewriter.vercel.app/api?type=typing&width=700&height=75&font=Fira+Code&size=16&color=50FA7B&lines=const+developer+%3D+%22Jedrick%22;;let+status+%3D+%22Vibing+%26+Coding%22;;while(true)+%7B+vibe();+coffee.refill();+%7D" alt="Coding Vibes SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&width=540&height=50&lines=const+name+%3D+%22Jedrick%22;let+status+%3D+%22Coding%22;while(true)+%7B+vibe();+%7D" alt="Typing SVG" />
 </p>
 <br />
 <p align="center">
