@@ -1,31 +1,40 @@
-<h1 align="center">Hi, I’m Jedrick Mariano</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Jedrick+%F0%9F%91%8B;Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code;Building%2C+Learning%2C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <strong>IT student at Mapúa University · Cybersecurity track</strong><br>
-  I build web applications and experiment with networking and cloud infrastructure.
+  <img src="https://img.shields.io/badge/Status-Building%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mood-Coding%20%26%20Debugging-181717?style=for-the-badge&logo=terminal&logoColor=white" />
 </p>
+
+<br />
+
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
-  <a href="https://jedrick-portfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&amp;logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jedrickmariano"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&amp;logoColor=white"></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## Featured projects
+<br />
 
-| Project | What it does |
-| --- | --- |
-| **[DentaSync](https://github.com/Jedrx-m/DentaSync)** | Supports appointment booking, chair scheduling, and dental charting for a three-branch clinic. **Next.js · TypeScript · PostgreSQL** · [Live site](https://brightsmile.pro/) |
-| **[OrgManager](https://orgmanager.vercel.app/)** | Helps student organizations manage members, events, attendance, and finances. **React · Laravel** |
-| **[Click K.O.](https://github.com/Jedrx-m/Final_Group_Proj)** | A group-built desktop boxing game with three opponents and timing-based combat. **Java · Swing** |
+<h3 align="center">⚡ Current Status</h3>
 
-[Watch short clips of all three projects →](https://jedrick-portfolio.vercel.app/#projects)
+```javascript
+const developer = {
+    name: "Jedrick",
+    role: "Developer",
+    currentlyLearning: ["Programming", "Web Development", "Cloud"],
+    languages: ["C++", "Java", "JavaScript"],
+    hobbies: ["Football", "Music", "Coding"]
+};
 
-## Tools I work with
-
-- **Web** · TypeScript, JavaScript, React, Next.js, HTML, CSS
-- **Backend and databases** · Laravel, PostgreSQL, Supabase
-- **Desktop and networking** · Java, C++, Swing, Cisco Packet Tracer
-
-## What I’m learning
-
-I’m exploring cloud infrastructure and practicing network segmentation, routing, and access control in Cisco Packet Tracer. Outside of coding, I enjoy football and music.
+while (true) {
+    learn();
+    build();
+    debug();
+    improve();
+}
